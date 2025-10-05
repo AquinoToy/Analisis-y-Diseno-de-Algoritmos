@@ -1,0 +1,17 @@
+# Ignorar ejecutables en Linux (sin extensión)
+*.out
+*.o
+*.so
+*.a
+
+# Ignorar ejecutables en Windows
+*.exe
+*.dll
+
+# Ignorar archivos de texto
+*.txt
+
+# Ignorar carpetas de compilación comunes
+/build/
+/bin/
+/obj/
