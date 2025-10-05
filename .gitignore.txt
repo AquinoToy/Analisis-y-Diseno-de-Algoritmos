@@ -7,6 +7,7 @@
 # Ignorar ejecutables en Windows
 *.exe
 *.dll
+*.bat
 
 # Ignorar archivos de texto
 *.txt
